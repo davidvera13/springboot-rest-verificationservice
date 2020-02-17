@@ -17,7 +17,7 @@
 
             // we call the entry point for email verification and wait response
             function verifyToken(tokenValue)  {
-                $.get('http://localhost:8080/appws/users/email-verification', {token: tokenValue})
+                $.getJSON('http://localhost:8080/appws/users/email-verification', {token: tokenValue})
                     .done(function (response) {
                         if (response["operationResult"] === "SUCCESS")  {
                             $("#not-successful-result").attr( "style", "display: none !important;" );

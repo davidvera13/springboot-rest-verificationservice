@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad6ae4ed-7bdb-4b81-bcdd-f2d18adae750" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/password-reset.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/email-verification.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/email-verification.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/appws-verificationservice/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/appws-verificationservice/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/appws-verificationservice/index.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="CodeInsightWorkspaceSettings">
     <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -19,8 +43,25 @@
     <option name="LABEL_PART_1" value="&lt;bean:message key=&quot;" />
     <option name="LABEL_PART_2" value="&quot;/&gt;" />
   </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
   <component name="ProjectId" id="1XvLmlZQ76sxqzGmCjVcZLbxvQI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -32,11 +73,71 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\David Vera\Documents\eclipse-workspace\spring\kargopolov\springboot-rest-verificationservice\src\main\webapp" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad6ae4ed-7bdb-4b81-bcdd-f2d18adae750" name="Default Changelist" comment="" />
+      <created>1581921782701</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581921782701</updated>
+      <workItem from="1581921785749" duration="4818000" />
+      <workItem from="1581944935744" duration="2223000" />
+      <workItem from="1581950719854" duration="1654000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding verification service">
+      <created>1581921889055</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581921889055</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding verification service" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding verification service" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="828" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581921843424">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="828" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581921843424" />
+    <state x="667" y="28" key="CommitChangelistDialog2" timestamp="1581921887801">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="28" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581921887801" />
+    <state width="986" height="246" key="GridCell.Tab.0.bottom" timestamp="1581954297025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="986" height="246" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581954297025" />
+    <state width="986" height="246" key="GridCell.Tab.0.center" timestamp="1581954297025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="986" height="246" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581954297025" />
+    <state width="986" height="246" key="GridCell.Tab.0.left" timestamp="1581954297025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="986" height="246" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581954297025" />
+    <state width="986" height="246" key="GridCell.Tab.0.right" timestamp="1581954297025">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="986" height="246" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581954297025" />
+    <state x="1069" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1581945810709">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1069" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581945810709" />
   </component>
   <component name="se.expertsystem.intellij.aop.aspectj.AspectJProjectComponent">
     <setting name="isActivated" value="false" />
