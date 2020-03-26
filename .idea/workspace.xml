@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ad6ae4ed-7bdb-4b81-bcdd-f2d18adae750" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/password-reset.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/email-verification.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/email-verification.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/appws-verificationservice/META-INF/MANIFEST.MF" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/appws-verificationservice/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/appws-verificationservice/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +85,7 @@
       <updated>1581921782701</updated>
       <workItem from="1581921785749" duration="4818000" />
       <workItem from="1581944935744" duration="2223000" />
-      <workItem from="1581950719854" duration="1654000" />
+      <workItem from="1581950719854" duration="3099000" />
     </task>
     <task id="LOCAL-00001" summary="Adding verification service">
       <created>1581921889055</created>
@@ -99,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581921889055</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Manage password reset form and return to the backend">
+      <created>1581954705785</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1581954705785</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,33 +109,38 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding verification service" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding verification service" />
+    <MESSAGE value="Manage password reset form and return to the backend" />
+    <option name="LAST_COMMIT_MESSAGE" value="Manage password reset form and return to the backend" />
   </component>
   <component name="WindowStateProjectService">
     <state x="828" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581921843424">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="828" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581921843424" />
-    <state x="667" y="28" key="CommitChangelistDialog2" timestamp="1581921887801">
+    <state x="667" y="28" key="CommitChangelistDialog2" timestamp="1581954704272">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="667" y="28" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581921887801" />
-    <state width="986" height="246" key="GridCell.Tab.0.bottom" timestamp="1581954297025">
+    <state x="667" y="28" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581954704272" />
+    <state width="1877" height="246" key="GridCell.Tab.0.bottom" timestamp="1582006752620">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="986" height="246" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1581954297025" />
-    <state width="986" height="246" key="GridCell.Tab.0.center" timestamp="1581954297025">
+    <state width="1877" height="246" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582006752620" />
+    <state width="1877" height="246" key="GridCell.Tab.0.center" timestamp="1582006752619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="986" height="246" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1581954297025" />
-    <state width="986" height="246" key="GridCell.Tab.0.left" timestamp="1581954297025">
+    <state width="1877" height="246" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582006752619" />
+    <state width="1877" height="246" key="GridCell.Tab.0.left" timestamp="1582006752619">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="986" height="246" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1581954297025" />
-    <state width="986" height="246" key="GridCell.Tab.0.right" timestamp="1581954297025">
+    <state width="1877" height="246" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582006752619" />
+    <state width="1877" height="246" key="GridCell.Tab.0.right" timestamp="1582006752620">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="986" height="246" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1581954297025" />
+    <state width="1877" height="246" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582006752620" />
+    <state x="993" y="253" key="Vcs.Push.Dialog.v2" timestamp="1581954711619">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="993" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1581954711619" />
     <state x="1069" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1581945810709">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
