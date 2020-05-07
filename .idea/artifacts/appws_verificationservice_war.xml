@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="appws-verificationservice:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>appws-verificationservice</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="appws-verificationservice.war">
+      <element id="artifact" artifact-name="appws-verificationservice:war exploded" />
+    </root>
+  </artifact>
+</component>
